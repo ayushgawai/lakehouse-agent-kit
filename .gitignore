@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+audit.jsonl
+*.db
+.DS_Store
+.env
